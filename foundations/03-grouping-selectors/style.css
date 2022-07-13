@@ -1,0 +1,13 @@
+.stone,
+.water{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif' ;
+
+}
+.stone{
+    background-color: black;
+    color: white;
+}
+.water{
+    background-color: yellow;
+}
